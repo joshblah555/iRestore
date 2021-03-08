@@ -30,7 +30,11 @@ It can be found at https://github.com/marijuanARM/futurerestore
 
 # Instructions:
 
-**Attention** if you're on iOS 14.4 with A12 or higher, you CANNOT downgrade!
+A few things to consider prior to use:
+- If you're on iOS 14.4 with A12 or higher, you cannot downgrade.
+- You cannot get back to 13.x with this.
+- It will not supply freshly baked cookies. Buy your own.
+- Please don't modify/change it without asking first. 
 
 To use iRestore, simply click on the program to launch.
 
