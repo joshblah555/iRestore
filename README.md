@@ -42,8 +42,8 @@ To use iRestore, simply click on the program to launch.
 - Second, select the blob. This is the .shsh2 file you saved for your device.
 - Third, you may choose the SEP file (im4p). If you're confused about which files which, click the "Use Latest SEP" box.
 - Fourth, you may choose the baseband file (bbfw). If you're confused about which files which, click the "Use Latest Baseband" box.
-- Fifth, select the BuildManifest.plist file. This is located inside the IPSW of the latest firmware.
-- Sixth, be sure you set the nonce on your jailbroken device!
+- Fifth, select the BuildManifest.plist file. This is located inside the IPSW of the latest firmware. If you have "Use Latest ... " selected, this is not necessary.
+- Sixth, be sure you set the nonce on your jailbroken device! 
 - Seventh, click Restore!
 
 Any issues? Please report them. 
